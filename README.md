@@ -1,1 +1,1 @@
-# NeRF-Based VR Scene Reconstruction for Defense Training
+# SfM-Based NeRF for VR Defense Simulation
